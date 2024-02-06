@@ -1,1 +1,4 @@
 # Resumen Unidad 3
+
+
+Controlador de versiones, acostumbrado a tener en mente los cambios, actualizaciones, mejoras y versiones de mis desarrollos, será de utildiad, aplicar este nuevo conocimiento a mi trabajo, definitvamente una mejor manera de hacer las cosas en cuanto a las versiones de mis desarrollos.

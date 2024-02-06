@@ -1,1 +1,11 @@
 # Resumen Unidad 1
+
+Algoritmos
+
+He escrito muchos programas, interesante escribir la estructura del algoritmo en leguaje humano, es decir describir uno a uno los pasos que seguirá el programa para realizar la tarea para la que  ha sido escrito.
+
+Comprender como los equipos escriben en un lenguaje propio (binario), en una estructura fisica en la memoria o disco de la computadora, vemos la capacidad del ser humano manifestarse para solucionar un problema o necesidad.
+
+
+
+

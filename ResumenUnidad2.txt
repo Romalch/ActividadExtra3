@@ -1,1 +1,5 @@
 # Resumen Unidad 2
+
+Lamentablemente ya no pude hacer el examen, estoy en el proceso de completar las otras activiades aunque no tengan puntuación, será para mi experiencia de aprendizaje un paso más.  Estoy aprendiendo nuevos lenguajes y adaptandome a nuevas maneras de hacer las cosas, uno a uno, iré dando los pasos necesarios.
+
+Interesante lenguaje JavaScript, será de acostumbrarme a la sintaxis de sus comandos y funciones, que aunque parecidas a lo que estoy acostumbrado, requiere conocer detalles como, encerrar entre parentecis, llaves, cuando usar punto y como o dos puntos para diferenciar bucles.
